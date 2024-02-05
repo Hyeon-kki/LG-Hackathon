@@ -48,3 +48,4 @@ val_pred = model.predict(x_val)
 score = f1_score(y_val, val_pred)
 # score는 0.3008213552361396
 print(score)
+print(score)
